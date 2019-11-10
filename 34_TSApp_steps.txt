@@ -1,0 +1,4 @@
+Step 1 : Product.ts
+Step 2 : IProductService.ts
+Step 3 : ProductDataSource.ts
+Step 4 : SimpleDataSource.ts
